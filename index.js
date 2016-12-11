@@ -1,7 +1,7 @@
 'use strict';
 
 // var request = require('request');
-var htmlparser = require('htmlparser2');
+var htmlparser = require('htmlparser2-without-node-native');
 
 var NAME_DELIM = ':';
 
