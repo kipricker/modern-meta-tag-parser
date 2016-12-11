@@ -9,7 +9,6 @@
   "author": "Kip Ricker",
   "license": "MIT",
   "dependencies": {
-    "htmlparser2-without-node-native": "^3.9.0",
-    "request": "^2.70.0"
+    "htmlparser2-without-node-native": "^3.9.0"
   }
 }
